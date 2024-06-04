@@ -27,7 +27,7 @@ input {
     border-radius: 8px;
     font-size: 20px;
     text-align: center;
-     
+     font-family: "Indie Flower", cursive;
     margin: 10px 0;
 }
 
@@ -39,7 +39,7 @@ button {
     border-radius: 8px;
     font-size: 20px;
     text-align: center;
-    
+    font-family: "Indie Flower", cursive;
     font-weight: 600;
 }
 
